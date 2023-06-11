@@ -41,7 +41,7 @@ public class CountryRepository {
 		countries.put(uk.getName(), uk);
 
 		Country pe = new Country();
-		uk.setName("Peru");
+		uk.setName("peru");
 		uk.setCapital("Lima");
 		uk.setCurrency(Currency.PEN);
 		uk.setPopulation(33000007);

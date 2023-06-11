@@ -6,7 +6,7 @@ POST http://localhost:8080/ws
    <soapenv:Header/>
    <soapenv:Body>
       <gs:getCountryRequest>
-         <gs:name>Peru</gs:name>
+         <gs:name>peru</gs:name>
       </gs:getCountryRequest>
    </soapenv:Body>
 </soapenv:Envelope>
